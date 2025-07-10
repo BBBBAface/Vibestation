@@ -32,7 +32,7 @@ Vibestation is currently heavily WIP. Do not expect a working build, or any upda
 | /tg/station Discord | [https://tgstation13.org/phpBB/viewforum.php?f=60](https://tgstation13.org/phpBB/viewforum.php?f=60) |
 | Coderbus Discord    | [https://discord.gg/Vh8TJp9](https://discord.gg/Vh8TJp9)                                             |
 
-This is the codebase for the /tg/station flavoured fork of SpaceStation 13.
+This is a downstream of the codebase for the /tg/station flavoured fork of SpaceStation 13. Below is a copy of the default TGstation github description. Standby for exciting updates
 
 Space Station 13 is a paranoia-laden round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station, with charming spritework designed to represent the sci-fi setting and its dangerous undertones. Have fun, and survive!
 
